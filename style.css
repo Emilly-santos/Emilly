@@ -9,7 +9,7 @@ body {
     background-color: #671796;
     color: white;
     display: flex;
-    justify-content:center;
+    justify-content:baseline;
     align-items: center;
     padding: 24px 0;
 }
