@@ -27,6 +27,7 @@ body {
 .escola-imagem{
     width: 300%;
     align-items:center;
+    justify-items: center;
     
 }
 
